@@ -1,0 +1,3 @@
+npm init -y
+npm install nodemon express multer sequelize mysql2
+https://youtu.be/XIspbwjtF-M
